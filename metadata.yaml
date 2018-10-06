@@ -20,6 +20,8 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Della guerra nazionale d''insurrezione per bande, applicata all''Italia
 
   Trattato dedicato ai buoni Italiani da un amico del Paese'
